@@ -8,7 +8,7 @@ import org.testng.annotations.Test;
 
 import com.ZebraC.genericUtilities.BaseClass;
 
-public class TestScript2 extends BaseClass {
+public class TestScript2Test extends BaseClass {
 	
 	
 	@Test

@@ -15,7 +15,7 @@ import com.ZebraC.genericUtilities.IPathconstants;
 import com.ZebraC.genericUtilities.ProprtyFile;
 
 
-public class TestScript1 extends BaseClass{
+public class TestScript1Test extends BaseClass{
 	    
 	  ProprtyFile pf=new ProprtyFile();
 	  FrequentlyUsedCode fus=new FrequentlyUsedCode();
