@@ -7,6 +7,7 @@ public class TestScript3Test {
      public void tc1()
      {
     	 System.out.println("hello");
+    	 System.out.println("thois can b confilct");
      }
      
 }
